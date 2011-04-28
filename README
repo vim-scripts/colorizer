@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3567
+
+A modification of vimscript #2150. It highlights all colors in the form of #rrggbb, regardless of file types, and unlike vimscript #2150, it's able to find all colors in one line. It has support for 256-color terminals. It won't highlight color names or abbreviated #rgb.
+
+Use the :UpdateColor command if some of the colors are not highlighted yet.
